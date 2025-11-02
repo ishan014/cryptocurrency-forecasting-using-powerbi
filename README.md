@@ -1,7 +1,7 @@
 # Cryptocurrency Forecasting Using PowerBI Dashboard
 
 ![Snapshot](https://github.com/ishan014/cryptocurrency-forecasting-using-powerbi/blob/main/Cryptocurrency-Forecasting-Using-PowerBi-Dashboard-main/Page1.png)
-![Snapshot](https://github.com/Ritesh055/Cryptocurrency-Forecasting-Using-PowerBi-Dashboard/blob/main/SS.jpg)
+![Snapshot](https://github.com/ishan014/cryptocurrency-forecasting-using-powerbi/blob/main/Cryptocurrency-Forecasting-Using-PowerBi-Dashboard-main/SS.jpg)
 
 
 
